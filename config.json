@@ -1,0 +1,6 @@
+{
+    "email_user": "",
+    "email_password": "",
+    "mail_server": "imap.gmail.com",
+    "mail_port": 993
+}

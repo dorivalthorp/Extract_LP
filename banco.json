@@ -1,0 +1,7 @@
+{
+    "banco": "liveperson",
+    "usuario": "postgres",
+    "senha": "12345678",
+    "endereco": "localhost",
+    "porta":5432
+}
